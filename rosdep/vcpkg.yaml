@@ -40,3 +40,7 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+gstreamer1.0-plugins-ugly:
+  windows:
+    vcpkg:
+      packages: [Gstreamer1-plugins-ugly]
